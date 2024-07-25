@@ -1,0 +1,15 @@
+{
+    "autoload": {
+        "psr-4": {
+            "MyApp\\": "core/classes"
+        }
+    },
+    
+    "name": "gurpreetkaur/video-chat-application",
+    "description": "A PHP-based video chat application.",
+    "type": "project",
+    "require": {
+        "cboden/ratchet": "^0.4.3"
+    },
+    "license": "MIT"
+}
